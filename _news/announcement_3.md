@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-5-5 11:48:00+0800
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I will present our work RoboPack in three workshops at ICRA 2024: [ViTac](https://shanluo.github.io/ViTacWorkshops/), 
+[3DVRM](https://3d-manipulation-workshop.github.io/), 
+and [Future Roadmap for Manipulation Skills](https://icra-manipulation-skill.github.io/). Welcome to drop by our poster sessions.
