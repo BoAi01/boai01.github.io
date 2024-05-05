@@ -1,25 +1,24 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
+
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a research engineer at the Agency for Science, Technology and Research (A*STAR), Singapore, working with [Cheston Tan](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-cheston-tan). I have also been collaborating with [Jiajun Wu](https://jiajunwu.com/) and [Yunzhu Li](https://yunzhuli.github.io/). I am interested in learning dynamics models, sim-to-real transfer, and integrating learning and planning. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Earlier, I was a visiting researcher intern at the [Stanford Vision and Learning Lab](https://svl.stanford.edu/). I received my Bacherlor's degree from the National University of Singapore, where I worked with [David Hsu](https://www.comp.nus.edu.sg/~dyhsu/) on long-horizon visual navigation with a Spot robot. I will be joining UC San Diego in 2024 fall, working with [Hao Su](https://cseweb.ucsd.edu/~haosu/) and [Henrik I. Christensen](http://www.hichristensen.net/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[//]: # (Link to your social media connections, too. This theme is set up to use [Font Awesome icons]&#40;https://fontawesome.com/&#41; and [Academicons]&#40;https://jpswalsh.github.io/academicons/&#41;, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
