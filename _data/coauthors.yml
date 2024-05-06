@@ -1,34 +1,33 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"hsu":
+  - firstname: ["David", "David Hsu"]
+    url: https://www.comp.nus.edu.sg/~dyhsu/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"wu":
+  - firstname: ["Jiajun", "Jiajun Wu"]
+    url: https://jiajunwu.com/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+  - firstname: [ "Zhanxin", "Zhanxin Wu" ]
+    url: https://zhanxinwu.com/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"li":
+  - firstname: ["Yunzhu", "Yunzhu Li"]
+    url: https://yunzhuli.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"tan":
+  - firstname: ["Cheston", "Cheston Tan"]
+    url: https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-cheston-tan
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+  - firstname: ["Samson", "Samson Tan"]
+    url: https://samsontmr.github.io/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"tian":
+  - firstname: ['Stephen']
+    url: https://s-tian.github.io/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"shi":
+  - firstname: ['Haochen']
+    url: https://hshi74.github.io/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"wang":
+  - firstname: ['Yixuan']
+    url: https://wangyixuan12.github.io/
