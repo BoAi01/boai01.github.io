@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I decided to join UCSD as a PhD student! 
+I will join UCSD as a PhD student! 
