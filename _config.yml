@@ -108,7 +108,10 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  "We shall not cease from exploration. And the end of all our exploring will be to arrive where we started, and know the place for the first time." — T. S. Eliot
+  "We shall not cease from exploration. <br> 
+  And the end of all our exploring will be to arrive where we started,  <br>
+  and know the place for the first time." <br>
+  — T. S. Eliot
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
