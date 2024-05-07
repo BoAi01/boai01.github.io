@@ -10,7 +10,7 @@ email: bai@ucsd.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Bo Ai is an incoming Ph.D. student in robotics and machine learning at the University of California, San Diego.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+#  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: robotics, machine learning, AI  # add your own keywords or leave empty
@@ -109,7 +109,7 @@ zotero_username: # your zotero username
 
 contact_note: >
   "We shall not cease from exploration. <br> 
-  And the end of all our exploring will be to arrive where we started,  <br>
+  And the end of all our exploring will be to arrive where we started, 
   and know the place for the first time." <br>
   — T. S. Eliot
 
@@ -164,9 +164,9 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+#external_sources:
+#  - name: medium.com
+#    rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
