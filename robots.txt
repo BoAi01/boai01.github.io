@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://boai01.github.io/al-folio/sitemap.xml
+Sitemap: https://albertboai.com/al-folio/sitemap.xml
