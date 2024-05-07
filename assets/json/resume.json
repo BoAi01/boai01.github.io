@@ -9,7 +9,7 @@
       "position": "Visiting Researcher Intern",
       "startDate": "2023",
       "endDate": "2023",
-      "summary": "Conduct research in learning visuo-tactile dynamics models for robotic manipulation",
+      "summary": "Conduct research on learning visuo-tactile dynamics models for robotic manipulation",
       "highlights": ["robotic manipulation", "learning dynamics models", "multimodal perception"]
     },
     {
@@ -17,8 +17,16 @@
       "position": "Research Engineer",
       "startDate": "2023",
       "endDate": "2024",
-      "summary": "Conduct research at the intersection of machine learning and robotics. ",
+      "summary": "Conduct research at the intersection of machine learning and robotics",
       "highlights": ["robotic manipulation", "learning dynamics models"]
+    },
+    {
+      "name": "National University of Singapore",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "Conduct research in robotic navigation, maintain and demonstrate robotic systems",
+      "highlights": ["long-horizon visual navigation", "sim-to-real transfer", "integrating learning and planning"]
     }
   ],
   "education": [
