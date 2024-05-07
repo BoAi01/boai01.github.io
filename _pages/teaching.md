@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Courses that I have taught as an undergraduate at the National University of Singapore.
+description: Courses in which I worked as an undergraduate TA at NUS
 nav: true
 nav_order: 3
 ---
