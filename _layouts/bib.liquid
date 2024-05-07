@@ -31,10 +31,11 @@
         {% else %}
           {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
           {% if entry.preview contains '.mp4' %}
-              <video controls muted loop class="preview z-depth-1 rounded" width="200px">
-                <source src="{{ entry.preview }}" type="video/mp4">
+              {% comment %} TODO: fix this. It doesn't really work{% endcomment %}
+            <video controls muted loop class="preview z-depth-1 rounded" width="200px">
+                <source src="{{ entry_path }}" type="video/mp4">
                 Your browser does not support the video tag.
-              </video>
+            </video>
             {% else %}
               {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
               {%
