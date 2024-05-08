@@ -5,12 +5,12 @@
   },
   "work": [
     {
-      "name": "Stanford University",
+      "name": "Stanford Vision and Learning Lab, Stanford University",
       "position": "Visiting Researcher Intern",
       "startDate": "2023",
       "endDate": "2023",
       "summary": "Conduct research on learning visuo-tactile dynamics models for robotic manipulation",
-      "highlights": ["robotic manipulation", "learning dynamics models", "multimodal perception"]
+      "highlights": ["robotic manipulation", "dynamics model learning", "multimodal perception"]
     },
     {
       "name": "Agency for Science, Technology and Research (A*STAR), Singapore",
@@ -18,10 +18,10 @@
       "startDate": "2023",
       "endDate": "2024",
       "summary": "Conduct research at the intersection of machine learning and robotics",
-      "highlights": ["robotic manipulation", "learning dynamics models"]
+      "highlights": ["robotic manipulation", "dynamics model learning", "foundation models for robotics"]
     },
     {
-      "name": "National University of Singapore",
+      "name": "Adaptive Computing Lab, National University of Singapore",
       "position": "Undergraduate Research Assistant",
       "startDate": "2021",
       "endDate": "2023",
@@ -34,7 +34,7 @@
       "institution": "National University of Singapore",
       "location": "Singapore",
       "url": "https://nus.edu.sg/",
-      "area": "Computer Science, Statistics",
+      "area": "Computer Science & Statistics under Turing Program",
       "studyType": "Bachelor in Computer Science",
       "startDate": "2019",
       "endDate": "2023",
