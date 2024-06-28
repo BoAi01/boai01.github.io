@@ -23,3 +23,15 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+
+// Custom styles
+.small-note {
+  font-size: 0.8em; /* Adjust font size as needed */
+  line-height: 1.3em; /* Adjust line height as needed */
+  margin: 0; /* Ensure there's no margin affecting spacing */
+  padding-top: 0.2em; /* Top padding */
+  padding-bottom: 0.2em; /* Bottom padding */
+  padding-left: 0; /* Left padding (unchanged or set as needed) */
+  padding-right: 0; /* Right padding (unchanged or set as needed) */
+}
