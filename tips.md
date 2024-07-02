@@ -5,7 +5,7 @@ Modifying x in the last line `col col-sm-x` here
 ```angular2html
 <div class="row">
   {% if site.enable_publication_thumbnails %}
-    <div class="col col-sm-4 abbr">
+    <div class="col col-sm-4 abbr"> 
 ```
 in [_layouts/bib.liquid](_layouts/bib.liquid). 
 
