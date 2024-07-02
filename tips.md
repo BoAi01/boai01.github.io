@@ -1,13 +1,7 @@
 ## Some tips for updating the website
 
 ### Changing the size of figures 
-Modifying x in the last line `col col-sm-x` here
-```angular2html
-<div class="row">
-  {% if site.enable_publication_thumbnails %}
-    <div class="col col-sm-4 abbr"> 
-```
-in [_layouts/bib.liquid](_layouts/bib.liquid). 
+Modifying x in `<div class="col col-sm-x abbr">` in [_layouts/bib.liquid](_layouts/bib.liquid). 
 
 ### Adding/deleting publications
 Modify [_bibliography/papers.bib](_bibliography/papers.bib)
