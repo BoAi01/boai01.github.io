@@ -4,7 +4,8 @@
 Modifying x in `<div class="col col-sm-x abbr">` in [_layouts/bib.liquid](_layouts/bib.liquid). 
 
 ### Adding/deleting publications
-Modify [_bibliography/papers.bib](_bibliography/papers.bib)
+Modify [_bibliography/papers.bib](_bibliography/papers.bib).
+For videos, place it under [assets/img/publication_preview](assets/img/publication_preview) and specify file name as ``
 
 ### Adding notes to a publication
 Add a key `note={...}` to the bib entry in [_bibliography/papers.bib](_bibliography/papers.bib). 
