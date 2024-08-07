@@ -9,7 +9,8 @@
     url={https://arxiv.org/abs/2407.03122},
     pdf={https://arxiv.org/abs/2407.03122},
     selected={true},
-    preview={2024ijrr-kilo-nav-15x-480p.gif}
+    preview={2024ijrr-kilo-nav-15x-480p.gif},
+    abstract={This work explores the challenges of creating a scalable and robust robot navigation system that can traverse both indoor and outdoor environments to reach distant goals. We propose a navigation system architecture called IntentionNet that employs a monolithic neural network as the low-level planner/controller, and uses a general interface that we call intentions to steer the controller. The paper proposes two types of intentions, Local Path and Environment (LPE) and Discretised Local Move (DLM), and shows that DLM is robust to significant metric positioning and mapping errors. The paper also presents Kilo-IntentionNet, an instance of the IntentionNet system using the DLM intention that is deployed on a Boston Dynamics Spot robot, and which successfully navigates through complex indoor and outdoor environments over distances of up to a kilometre with only noisy odometry.}
 }
 
 @inproceedings{
@@ -28,29 +29,28 @@ html={https://robo-pack.github.io/},
   [ViTac](https://shanluo.github.io/ViTacWorkshops/),
   [3DVRM](https://3d-manipulation-workshop.github.io/),
   [Future Roadmap for Sensorimotor Skills](https://icra-manipulation-skill.github.io/), and RSS 2024 workshop
-  [Priors4Robots](https://sites.google.com/alora.tech/priors4robots24).}
+  [Priors4Robots](https://sites.google.com/alora.tech/priors4robots24).},
+  abstract={Tactile feedback is critical for understanding the dynamics of both rigid and deformable objects in many manipulation tasks, such as non-prehensile manipulation and dense packing. We introduce an approach that combines visual and tactile sensing for robotic manipulation by learning a neural, tactile-informed dynamics model. Our proposed framework, RoboPack, employs a recurrent graph neural network to estimate object states, including particles and object-level latent physics information, from historical visuo-tactile observations and to perform future state predictions. Our tactile-informed dynamics model, learned from real-world data, can solve downstream robotics tasks with model-predictive control. We demonstrate our approach on a real robot equipped with a compliant Soft-Bubble tactile sensor on non-prehensile manipulation and dense packing tasks, where the robot must infer the physics properties of objects from direct and indirect interactions. Trained on only an average of 30 minutes of real-world interaction data per task, our model can perform online adaptation and make touch-informed predictions. Through extensive evaluations in both long-horizon dynamics prediction and real-world manipulation, our method demonstrates superior effectiveness compared to previous learning-based and physics-based simulation systems.}
 }
 
-@inproceedings{ai2023invariance,
-  author       = {Bo Ai and
-                  Zhanxin Wu and
-                  David Hsu},
-  title        = {Invariance is Key to Generalization: Examining the Role of Representation
-                  in Sim-to-Real Transfer for Visual Navigation},
-  booktitle    = {International Symposium on Experimental Robotics (ISER)},
-  volume       = {abs/2310.15020},
-  year         = {2023},
-  url          = {https://doi.org/10.48550/arXiv.2310.15020},
-  doi          = {10.48550/ARXIV.2310.15020},
-  eprinttype    = {arXiv},
-  eprint       = {2310.15020},
-  timestamp    = {Mon, 04 Dec 2023 21:29:45 +0100},
-  biburl       = {https://dblp.org/rec/journals/corr/abs-2310-15020.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-  bibtex_show={false},
-  pdf={https://arxiv.org/abs/2310.15020},
-  selected={true},
-  preview={2023ISER-SEER.gif}
+@InProceedings{ai2023invariance,
+    author="Ai, Bo
+    and Wu, Zhanxin
+    and Hsu, David",
+    editor="Ang Jr, Marcelo H.
+    and Khatib, Oussama",
+    title="Invariance is Key to Generalization: Examining the Role of Representation in Sim-to-Real Transfer for Visual Navigation",
+    booktitle="International Symposium on Experimental Robotics",
+    year="2023",
+    publisher="Springer Nature Switzerland",
+    address="Cham",
+    pages="69--80",
+    abstract="The data-driven approach to robot control has been gathering pace rapidly, yet generalization to unseen task domains remains a critical challenge. We argue that the key to generalization is representations that are (i) rich enough to capture all task-relevant information and (ii) invariant to superfluous variability between the training and the test domains. We experimentally study such a representation---containing both depth and semantic information---for visual navigation and show that it enables a control policy trained entirely in simulated indoor scenes to generalize to diverse real-world environments, both indoors and outdoors. Further, we show that our representation reduces the A-distance between the training and test domains, improving the generalization error bound as a result. Our proposed approach is scalable: the learned policy improves continuously, as the foundation models that it exploits absorb more diverse data during pre-training.",
+    isbn="978-3-031-63596-0",
+    pdf={https://arxiv.org/abs/2310.15020},
+    selected={true},
+    preview={2023ISER-SEER.gif},
+    note={Published within [Springer Proceedings in Advanced Robotics](https://link.springer.com/chapter/10.1007/978-3-031-63596-0_7).}
 }
 
 @inproceedings{
@@ -62,7 +62,8 @@ html={https://robo-pack.github.io/},
     url={https://openreview.net/forum?id=vuSI9mhDaBZ},
     bibtex_show={false},
     pdf={https://openreview.net/forum?id=vuSI9mhDaBZ},
-    preview={2023RSSW-TAMP.gif}
+    preview={2023RSSW-TAMP.gif},
+    abstract={Do you want a personal housekeeper robot? This project seeks to endow robots with the capability of tidying up messy rooms with brief natural language descriptions of the environment. We address three key challenges: (i) incomplete map information in the description, (ii) commonsense understanding of object locations, and (iii) long-horizon planning and acting to achieve the objective. To tackle these challenges, we leverage Large Language Models' (LLMs) understanding of typical layouts of human-living environments and object locations, as well as programming and control skills for action execution. Specifically, we prompt ChatGPT to reconstruct complete map representations from partial descriptions, then generate a high-level action plan in the form of Python functions, and finally refine the plans with atomic actions executable by the robot. We show that our framework enables effective room rearrangement with limited human instruction guidance. On simulation and real-world maps, it is able to find a place missing out from human description within three interactions with humans. In the simulation environment, it is capable of putting more than 80\% household objects in their desired place. This study provides preliminary evidence that LLMs have common sense about the spatial layout of human-living environments and object arrangements, and this work connects this knowledge to robotics tasks.}
 }
 
 @inproceedings{ai2022deep,
@@ -84,7 +85,8 @@ html={https://robo-pack.github.io/},
   pdf={https://arxiv.org/abs/2109.07752},
   html={https://adacomp.comp.nus.edu.sg/inet/},
   selected={true},
-  preview={2022ICRA-DECISION.gif}
+  preview={2022ICRA-DECISION.gif},
+  abstract={How can a robot navigate successfully in rich and diverse environments, indoors or outdoors, along office corridors or trails on the grassland, on the flat ground or the staircase? To this end, this work aims to address three challenges: (i) complex visual observations, (ii) partial observability of local visual sensing, and (iii) multimodal robot behaviors conditioned on both the local environment and the global navigation objective. We propose to train a neural network (NN) controller for local navigation via imitation learning. To tackle complex visual observations, we extract multi-scale spatial representations through CNNs. To tackle partial observability, we aggregate multi-scale spatial information over time and encode it in LSTMs. To learn multimodal behaviors, we use a separate memory module for each behavior mode. Importantly, we integrate the multiple neural network modules into a unified controller that achieves robust performance for visual navigation in complex, partially observable environments. We implemented the controller on the quadrupedal Spot robot and evaluated it on three challenging tasks: adversarial pedestrian avoidance, blind-spot obstacle avoidance, and elevator riding. The experiments show that the proposed NN architecture significantly improves navigation performance.}
 }
 
 @inproceedings{ai2022whodunit,
@@ -126,5 +128,6 @@ html={https://robo-pack.github.io/},
   bibsource    = {dblp computer science bibliography, https://dblp.org},
   bibtex_show={false},
   pdf={https://aclanthology.org/2022.aacl-main.84},
-  preview={2022IJCNLP-Contrax.png}
+  preview={2022IJCNLP-Contrax.png},
+  abstract={Authorship attribution is the task of identifying the author of a given text. The key is finding representations that can differentiate between authors. Existing approaches typically use manually designed features that capture a dataset's content and style, but these approaches are dataset-dependent and yield inconsistent performance across corpora. In this work, we propose \textit{learning} author-specific representations by fine-tuning pre-trained generic language representations with a contrastive objective (Contra-X). We show that Contra-X learns representations that form highly separable clusters for different authors. It advances the state-of-the-art on multiple human and machine authorship attribution benchmarks, enabling improvements of up to 6.8% over cross-entropy fine-tuning. However, we find that Contra-X improves overall accuracy at the cost of sacrificing performance for some authors. Resolving this tension will be an important direction for future work. To the best of our knowledge, we are the first to integrate contrastive learning with pre-trained language model fine-tuning for authorship attribution.}
 }
