@@ -8,9 +8,9 @@ middle_name:
 last_name: Ai
 email: bai@ucsd.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Bo Ai is an incoming CSE Ph.D. student at UC San Diego, working on robotics and machine
+  Bo Ai is a first-year CSE Ph.D. student at UC San Diego, working on robotics and machine
   learning. He received his Bachelor's degree in CS and Statistics from the National University of Singapore (NUS) 
-  and was a visiting researcher intern at the Stanford Vision and Learning Lab (SVL).
+  and was a research intern at the Stanford Vision and Learning Lab (SVL).
 footer_text: >
 #  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
