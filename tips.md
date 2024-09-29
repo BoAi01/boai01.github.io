@@ -10,6 +10,9 @@ For videos, place it under [assets/img/publication_preview](assets/img/publicati
 ### Adding notes to a publication
 Add a key `note={...}` to the bib entry in [_bibliography/papers.bib](_bibliography/papers.bib). 
 
+### Adding preview to a publication
+Add images/gifs to [_assets/img/publication_preview](_assets/img/publication_preview) and a key `preview={...}` to the bib entry. 
+
 ### Adding news
 Create a new file in [_news](_news)
 
