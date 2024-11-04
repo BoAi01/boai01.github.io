@@ -2,7 +2,7 @@
 layout: page
 permalink: /service/
 title: Service
-description: Professional and academic contributions
+description: Professional and academic activities
 nav: true
 nav_order: 3
 ---
