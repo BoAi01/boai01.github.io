@@ -61,8 +61,10 @@
       "name": "Robotics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Dynamics Learning",
-        "Model-Predictive Control",
+        "Cross-Embodiment Learning",
+        "Skill Composition",
+        "Mobile Manipulation",
+        "Dynamics Model Learning",
         "Sim-to-Real Transfer"
       ]
     },
