@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: Courses in which I worked as an undergraduate TA at NUS
-nav: true
+nav: false
 nav_order: 3
 ---
 
