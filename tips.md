@@ -17,4 +17,4 @@ Add images/gifs to [_assets/img/publication_preview](_assets/img/publication_pre
 Create a new file in [_news](_news)
 
 ### Changing intro
-Updating file [_pages/about.md](_pages/about.md). 
+Updating file [_pages/about.md](_pages/about.md). The file is located at [assets/img](assets/img). 
