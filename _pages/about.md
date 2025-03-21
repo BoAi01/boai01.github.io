@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD student in CSE at [UC San Diego](https://ucsd.edu/), advised by [Hao Su](https://cseweb.ucsd.edu/~haosu/). I aim to develop principled and scalable machine learning methods to solve real-world robotic tasks that would otherwise be intractable.
+I am a first-year PhD student in CSE at [UC San Diego](https://ucsd.edu/), advised by [Hao Su](https://cseweb.ucsd.edu/~haosu/) and [Henrik I. Christensen](https://hichristensen.com/). I aim to develop principled and scalable machine learning methods to solve real-world robotic tasks that would otherwise be intractable.
 
 I received my Bachelor’s degree in Computer Science and Statistics from the [National University of Singapore](https://nus.edu.sg/) with the highest distinction, where I worked with [David Hsu](https://www.comp.nus.edu.sg/~dyhsu/) on long-range navigation using a [Spot](https://bostondynamics.com/products/spot/) robot. Later, I visited the [Stanford Vision and Learning Lab](https://svl.stanford.edu/), working with [Yunzhu Li](https://yunzhuli.github.io/) and [Jiajun Wu](https://jiajunwu.com/) on learning world models for robotic manipulation using multi-modal perception.
 
