@@ -22,7 +22,7 @@ nav_order: 3
 
 ### Community Services
 Journal reviewer: RA-L ’22, ’23, ’24, ’25 <br>
-Conference reviewer: ICRA ’22, ’23, ’25; IROS ’22, ’23, ’24
+Conference reviewer: ICRA ’22, ’23, ’25; IROS ’22, ’23, ’24, ’25
 
 ### Talks
 [2023/07] Invited talk at [Stanford Intelligent Systems Laboratory](https://sisl.stanford.edu/) <br>
