@@ -1,15 +1,61 @@
 ---
 ---
 
+
+@article{ai2025embodimentscalinglaws,
+      title={Towards Embodiment Scaling Laws in Robot Locomotion},
+      author={Bo Ai* and Liu Dai* and Nico Bohlinger* and Dichen Li* and Tongzhou Mu and Zhanxin Wu and K. Fay and Henrik I. Christensen and Jan Peters and Hao Su},
+      year={2025},
+      eprint={2505.05753},
+      journal={arXiv},
+      pdf={https://arxiv.org/abs/2505.05753},
+      html={https://embodiment-scaling-laws.github.io/},
+      selected={true},
+      preview={2025CoRL-ESL.gif},
+      abs={Developing generalist agents that can operate across diverse tasks, environments, and robot embodiments is a grand challenge in robotics and artificial intelligence. In this work, we focus on the axis of embodiment and investigate \emph{embodiment scaling laws}—the hypothesis that increasing the number of training embodiments improves generalization to unseen ones. Using robot locomotion as a test bed, we procedurally generate a dataset of $\sim$1,000 varied embodiments, spanning humanoids, quadrupeds, and hexapods, and train generalist policies capable of handling diverse observation and action spaces on random subsets. We find that increasing the number of training embodiments improves generalization to unseen ones, and scaling embodiments is more effective in enabling embodiment-level generalization than scaling data on small, fixed sets of embodiments. Notably, our best policy, trained on the full dataset, zero-shot transfers to novel embodiments in the real world, such as Unitree Go2 and H1. These results represent a step toward general embodied intelligence, with potential relevance to adaptive control for configurable robots, co-design of morphology and control, and beyond. }
+}
+
+@inproceedings{
+gao2025do,
+title={Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation},
+author={Qiyue Gao* and Xinyu Pi* and Kevin Liu and Junrong Chen and Ruolan Yang and Xinqi Huang and Xinyu Fang and Lu Sun and Gautham Kishore and Bo Ai and Stone Tao and Mengyang Liu and Jiaxi Yang and Chao-Jung Lai and Chuanyang Jin and Jiannan Xiang and Benhao Huang and David Danks and Hao Su and Tianmin Shu and Ziqiao Ma and Lianhui Qin and Zhiting Hu},
+booktitle={ICLR 2025 Workshop on World Models: Understanding, Modelling and Scaling},
+year={2025},
+pdf={https://openreview.net/pdf?id=tpPv3ayoqo},
+preview={2025ARR-WMABench.png},
+abs={Internal world models (WMs) enable agents to understand the world's state and predict transitions, serving as the basis for advanced deliberative reasoning. Recent large Vision-Language Models (VLMs), such as GPT-4o and Gemini, exhibit potential as general-purpose WMs. While the latest studies have evaluated and shown limitations in specific capabilities such as visual understanding, a systematic evaluation of VLMs' fundamental WM abilities remains absent. Drawing on comparative psychology and cognitive science, we propose a two-stage framework that assesses Perception (visual, spatial, temporal, quantitative, and motion) and Prediction (mechanistic simulation, transitive inference, compositional inference) to provide an atomic evaluation of VLMs as WMs. Guided by this framework, we introduce WM-ABench, a large-scale benchmark comprising 23 fine-grained evaluation dimensions across 6 diverse simulated environments with controlled counterfactual simulations. Through 517 controlled experiments on 11 latest commercial and open-source VLMs, we find that these models exhibit striking limitations in basic world modeling abilities. For instance, all models perform at near-random accuracy when distinguishing motion trajectories. Additionally, they lack disentangled understanding---e.g., they tend to believe blue objects move faster than green ones. More rich results and analyses reveal significant gaps between VLMs and human-level world modeling.}
+}
+
+@article{tian2025diffusion,
+  title={Diffusion Dynamics Models with Generative State Estimation for Cloth Manipulation},
+  author={Tian*, Tongxuan and Li*, Haoyang and Ai, Bo and Yuan, Xiaodi and Huang, Zhiao and Su, Hao},
+  journal={arXiv},
+  year={2025},
+  html={https://tongxuan259.github.io/uniclothdiff-webpage/},
+  pdf={https://arxiv.org/abs/2503.11999},
+  preview={2025CoRL-UniClothDiff.gif},
+  abs={Manipulating deformable objects like cloth is challenging due to their complex dynamics, near-infinite degrees of freedom, and frequent self-occlusions, which complicate state estimation and dynamics modeling. Prior work has struggled with robust cloth state estimation, while dynamics models, primarily based on Graph Neural Networks (GNNs), are limited by their locality. Inspired by recent advances in generative models, we hypothesize that these expressive models can effectively capture intricate cloth configurations and deformation patterns from data. Building on this insight, we propose a diffusion-based generative approach for both perception and dynamics modeling. Specifically, we formulate state estimation as reconstructing the full cloth state from sparse RGB-D observations conditioned on a canonical cloth mesh and dynamics modeling as predicting future states given the current state and robot actions. Leveraging a transformer-based diffusion model, our method achieves high-fidelity state reconstruction while reducing long-horizon dynamics prediction errors by an order of magnitude compared to GNN-based approaches. Integrated with model-predictive control (MPC), our framework successfully executes cloth folding on a real robotic system, demonstrating the potential of generative models for manipulation tasks with partial observability and complex dynamics.}
+}
+
+@article{shi2025learningadaptivedexterousgrasping,
+  title={Learning Adaptive Dexterous Grasping from Single Demonstrations},
+  author={Liangzhi Shi* and Yulin Liu* and Lingqi Zeng* and Bo Ai and Zhengdong Hong and Hao Su},
+  year={2025},
+  journal={arXiv},
+  pdf={https://arxiv.org/abs/2503.20208},
+  html={https://zenglingqi647.github.io/AdaDexGrasp/},
+  preview={2025IROS-AdaDexGrasp.gif},
+  abs={How can robots learn dexterous grasping skills efficiently and apply them adaptively based on user instructions? This work tackles two key challenges: efficient skill acquisition from limited human demonstrations and context-driven skill selection. We introduce AdaDexGrasp, a framework that learns a library of grasping skills from a single human demonstration per skill and selects the most suitable one using a vision-language model (VLM). To improve sample efficiency, we propose a trajectory following reward that guides reinforcement learning (RL) toward states close to a human demonstration while allowing flexibility in exploration. To learn beyond the single demonstration, we employ curriculum learning, progressively increasing object pose variations to enhance robustness. At deployment, a VLM retrieves the appropriate skill based on user instructions, bridging low-level learned skills with high-level intent. We evaluate AdaDexGrasp in both simulation and real-world settings, showing that our approach significantly improves RL efficiency and enables learning human-like grasp strategies across varied object configurations. Finally, we demonstrate zero-shot transfer of our learned policies to a real-world PSYONIC Ability Hand, with a 90% success rate across objects, significantly outperforming the baseline.}
+}
+
 @article{gao2024intentionnet,
     title={IntentionNet: Map-Lite Visual Navigation at the Kilometre Scale},
     author={Wei Gao and Bo Ai and Joel Loo and Vinay and David Hsu},
     year={2024},
     journal={arXiv},
-    url={https://arxiv.org/abs/2407.03122},
     pdf={https://arxiv.org/abs/2407.03122},
-    selected={true},
-    preview={2024ijrr-kilo-nav-15x-480p.gif},
+    selected={false},
+    preview={2024IJRR-kilo-nav-15x-480p.gif},
     abstract={This work explores the challenges of creating a scalable and robust robot navigation system that can traverse both indoor and outdoor environments to reach distant goals. We propose a navigation system architecture called IntentionNet that employs a monolithic neural network as the low-level planner/controller, and uses a general interface that we call intentions to steer the controller. The paper proposes two types of intentions, Local Path and Environment (LPE) and Discretised Local Move (DLM), and shows that DLM is robust to significant metric positioning and mapping errors. The paper also presents Kilo-IntentionNet, an instance of the IntentionNet system using the DLM intention that is deployed on a Boston Dynamics Spot robot, and which successfully navigates through complex indoor and outdoor environments over distances of up to a kilometre with only noisy odometry.}
 }
 
