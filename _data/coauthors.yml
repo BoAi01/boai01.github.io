@@ -2,6 +2,18 @@
   - firstname: ["David", "David Hsu"]
     url: https://www.comp.nus.edu.sg/~dyhsu/
 
+"su":
+  - firstname: ["Hao", "Hao Su"]
+    url: https://cseweb.ucsd.edu/~haosu/index.html#_ri
+
+"christensen":
+  - firstname: ["Henrik", "Henrik I.", "Henrik I. Christensen"]
+    url: https://hichristensen.com/
+
+"peters":
+  - firstname: ["Jan", "Jan Peters"]
+    url: https://www.ias.tu-darmstadt.de/Team/JanPeters
+
 "wu":
   - firstname: ["Jiajun", "Jiajun Wu"]
     url: https://jiajunwu.com/
@@ -39,7 +51,57 @@
 "qin":
   - firstname: ['Chengwei']
     url: https://qcwthu.github.io/
+  - firstname: [ "Lianhui", "Lianhui Qin" ]
+    url: https://lianhui.ucsd.edu/
 
 "xiong":
   - firstname: ['Bo']
     url: https://boxiong.io/
+
+bohlinger:
+  - firstname: ["Nico", "Nico Bohlinger"]
+    url: https://www.ias.informatik.tu-darmstadt.de/Team/NicoBohlinger
+
+dai:
+  - firstname: ["Liu", "Liu Dai"]
+    url: https://liudai.notion.site/Liu-DAI-429d262c9f504ef59a5668772a29e86b
+
+mu:
+  - firstname: ["Tongzhou", "Tongzhou Mu"]
+    url: https://cseweb.ucsd.edu/~t3mu/
+
+hu:
+  - firstname: ["Zhiting", "Zhiting Hu"]
+    url: https://zhiting.ucsd.edu/
+
+shu:
+  - firstname: ["Tianmin", "Tianmin Shu"]
+    url: https://www.tshu.io/
+
+danks:
+  - firstname: ["David", "David Danks"]
+    url: https://www.daviddanks.org/
+
+gao:
+  - firstname: ["Qiyue", "Qiyue Gao"]
+    url: https://scholar.google.com/citations?user=-zquUaEAAAAJ&hl=en
+
+pi:
+  - firstname: ["Xinyu", "Xinyu Pi"]
+    url: https://scholar.google.com/citations?user=UPtuhT4AAAAJ&hl=en
+
+tao:
+  - firstname: ["Stone", "Stone Tao"]
+    url: https://www.stoneztao.com/
+
+huang:
+  - firstname: ["Zhiao", "Zhiao Huang"]
+    url: https://sites.google.com/view/zhiao-huang
+
+yuan:
+  - firstname: ["Xiaodi", "Xiaodi Yuan"]
+    url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=i-QiNPIAAAAJ
+
+liu:
+  - firstname: ["Yulin", "Yulin Liu"]
+    url: https://liuyulinn.github.io/
