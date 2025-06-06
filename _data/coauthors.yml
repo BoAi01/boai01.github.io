@@ -105,3 +105,11 @@ yuan:
 liu:
   - firstname: ["Yulin", "Yulin Liu"]
     url: https://liuyulinn.github.io/
+
+silver:
+  - firstname: ["Tom", "Tom Silver"]
+    url: https://tomsilver.github.io/
+
+Bhattacharjee:
+  - firstname: ["Tapomayukh", "Tapomayukh Bhattacharjee"]
+    url: https://tomsilver.github.io/
