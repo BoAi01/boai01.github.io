@@ -21,7 +21,7 @@ nav_order: 3
 - I led tutorial sessions, graded assignments, designed exam questions, and developed the student learning platform [Source Academy](https://sourceacademy.org/playground). I received a feedback score of 4.8 out of 5.0 from students, far above departmental average 4.2.
 
 ### Community Services
-Journal reviewer: RA-L ’22, ’23, ’24, ’25 <br>
+Journal reviewer: RA-L ’22, ’23, ’24, ’25; RAM ’25 <br>
 Conference reviewer: ICRA ’22, ’23, ’25; IROS ’22, ’23, ’24, ’25; CoRL ’25
 
 ### Talks
