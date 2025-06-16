@@ -5,12 +5,12 @@
   },
   "work": [
     {
-      "name": "Stanford Vision and Learning Lab, Stanford University",
-      "position": "Visiting Researcher Intern",
-      "startDate": "2023",
-      "endDate": "2023",
-      "summary": "Conduct research on learning visuo-tactile dynamics models for robotic manipulation",
-      "highlights": ["robotic manipulation", "dynamics model learning", "multimodal perception"]
+      "name": "University of California San Diego (UCSD)",
+      "position": "Graduate Student Researcher",
+      "startDate": "2025",
+      "endDate": "Now",
+      "summary": "Research cross-embodiment learning and generalization across a variety of robotic tasks",
+      "highlights": ["mobile manipulation", "world models", "cross-embodiment learning"]
     },
     {
       "name": "Agency for Science, Technology and Research (A*STAR), Singapore",
@@ -19,6 +19,14 @@
       "endDate": "2024",
       "summary": "Conduct research at the intersection of machine learning and robotics",
       "highlights": ["robotic manipulation", "dynamics model learning", "foundation models for robotics"]
+    },
+    {
+      "name": "Stanford Vision and Learning Lab, Stanford University",
+      "position": "Research Intern",
+      "startDate": "2023",
+      "endDate": "2023",
+      "summary": "Conduct research on learning visuo-tactile dynamics models for contact-rich robotic manipulation",
+      "highlights": ["robotic manipulation", "dynamics model learning", "multimodal perception"]
     },
     {
       "name": "Adaptive Computing Lab, National University of Singapore",
@@ -30,6 +38,15 @@
     }
   ],
   "education": [
+    {
+      "institution": "University of California San Diego (UCSD)",
+      "location": "United States",
+      "url": "https://ucsd.edu/",
+      "area": "Robotics, Artificial Intelligence",
+      "studyType": "Ph.D in Computer Science and Engineering",
+      "startDate": "2024",
+      "endDate": "Now"
+    },
     {
       "institution": "National University of Singapore",
       "location": "Singapore",
