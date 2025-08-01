@@ -18,3 +18,8 @@ Create a new file in [_news](_news)
 
 ### Changing intro
 Updating file [_pages/about.md](_pages/about.md). The file is located at [assets/img](assets/img). 
+
+## Launch locally
+```aiignore
+bundle exec jekyll serve --livereload
+```

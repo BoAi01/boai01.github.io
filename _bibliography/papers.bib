@@ -7,7 +7,7 @@
       author={Bo Ai* and Liu Dai* and Nico Bohlinger* and Dichen Li* and Tongzhou Mu and Zhanxin Wu and K. Fay and Henrik I. Christensen and Jan Peters and Hao Su},
       year={2025},
       eprint={2505.05753},
-      journal={arXiv},
+      journal={Conference on Robot Learning (CoRL)},
       pdf={https://arxiv.org/abs/2505.05753},
       html={https://embodiment-scaling-laws.github.io/},
       selected={true},
@@ -20,10 +20,21 @@
       title={SAVOR: Skill Affordance Learning from Visuo-Haptic Perception for Robot-Assisted Bite Acquisition},
       author={Zhanxin Wu and Bo Ai and Tom Silver and Tapomayukh Bhattacharjee},
       year={2025},
-      journal={arXiv},
+      journal={Conference on Robot Learning (CoRL)},
       pdf={https://arxiv.org/abs/2506.02353},
       preview={2025CoRL-SAVOR.webp},
       html={https://emprise.cs.cornell.edu/savor/}
+}
+
+@article{tian2025diffusion,
+  title={Diffusion Dynamics Models with Generative State Estimation for Cloth Manipulation},
+  author={Tian*, Tongxuan and Li*, Haoyang and Ai, Bo and Yuan, Xiaodi and Huang, Zhiao and Su, Hao},
+  journal={Conference on Robot Learning (CoRL)},
+  year={2025},
+  html={https://tongxuan259.github.io/uniclothdiff-webpage/},
+  pdf={https://arxiv.org/abs/2503.11999},
+  preview={2025CoRL-UniClothDiff.webp},
+  abs={Manipulating deformable objects like cloth is challenging due to their complex dynamics, near-infinite degrees of freedom, and frequent self-occlusions, which complicate state estimation and dynamics modeling. Prior work has struggled with robust cloth state estimation, while dynamics models, primarily based on Graph Neural Networks (GNNs), are limited by their locality. Inspired by recent advances in generative models, we hypothesize that these expressive models can effectively capture intricate cloth configurations and deformation patterns from data. Building on this insight, we propose a diffusion-based generative approach for both perception and dynamics modeling. Specifically, we formulate state estimation as reconstructing the full cloth state from sparse RGB-D observations conditioned on a canonical cloth mesh and dynamics modeling as predicting future states given the current state and robot actions. Leveraging a transformer-based diffusion model, our method achieves high-fidelity state reconstruction while reducing long-horizon dynamics prediction errors by an order of magnitude compared to GNN-based approaches. Integrated with model-predictive control (MPC), our framework successfully executes cloth folding on a real robotic system, demonstrating the potential of generative models for manipulation tasks with partial observability and complex dynamics.}
 }
 
 @inproceedings{
@@ -37,17 +48,6 @@ html={https://wm-abench.maitrix.org/},
 preview={2025ARR-WMABench.png},
 note={Abridged in ICLR 2025 workshop on [World Models: Understanding, Modelling, and Scaling](https://sites.google.com/view/worldmodel-iclr2025/home).},
 abs={Internal world models (WMs) enable agents to understand the world's state and predict transitions, serving as the basis for advanced deliberative reasoning. Recent large Vision-Language Models (VLMs), such as GPT-4o and Gemini, exhibit potential as general-purpose WMs. While the latest studies have evaluated and shown limitations in specific capabilities such as visual understanding, a systematic evaluation of VLMs' fundamental WM abilities remains absent. Drawing on comparative psychology and cognitive science, we propose a two-stage framework that assesses Perception (visual, spatial, temporal, quantitative, and motion) and Prediction (mechanistic simulation, transitive inference, compositional inference) to provide an atomic evaluation of VLMs as WMs. Guided by this framework, we introduce WM-ABench, a large-scale benchmark comprising 23 fine-grained evaluation dimensions across 6 diverse simulated environments with controlled counterfactual simulations. Through 517 controlled experiments on 11 latest commercial and open-source VLMs, we find that these models exhibit striking limitations in basic world modeling abilities. For instance, all models perform at near-random accuracy when distinguishing motion trajectories. Additionally, they lack disentangled understanding---e.g., they tend to believe blue objects move faster than green ones. More rich results and analyses reveal significant gaps between VLMs and human-level world modeling.}
-}
-
-@article{tian2025diffusion,
-  title={Diffusion Dynamics Models with Generative State Estimation for Cloth Manipulation},
-  author={Tian*, Tongxuan and Li*, Haoyang and Ai, Bo and Yuan, Xiaodi and Huang, Zhiao and Su, Hao},
-  journal={arXiv},
-  year={2025},
-  html={https://tongxuan259.github.io/uniclothdiff-webpage/},
-  pdf={https://arxiv.org/abs/2503.11999},
-  preview={2025CoRL-UniClothDiff.webp},
-  abs={Manipulating deformable objects like cloth is challenging due to their complex dynamics, near-infinite degrees of freedom, and frequent self-occlusions, which complicate state estimation and dynamics modeling. Prior work has struggled with robust cloth state estimation, while dynamics models, primarily based on Graph Neural Networks (GNNs), are limited by their locality. Inspired by recent advances in generative models, we hypothesize that these expressive models can effectively capture intricate cloth configurations and deformation patterns from data. Building on this insight, we propose a diffusion-based generative approach for both perception and dynamics modeling. Specifically, we formulate state estimation as reconstructing the full cloth state from sparse RGB-D observations conditioned on a canonical cloth mesh and dynamics modeling as predicting future states given the current state and robot actions. Leveraging a transformer-based diffusion model, our method achieves high-fidelity state reconstruction while reducing long-horizon dynamics prediction errors by an order of magnitude compared to GNN-based approaches. Integrated with model-predictive control (MPC), our framework successfully executes cloth folding on a real robotic system, demonstrating the potential of generative models for manipulation tasks with partial observability and complex dynamics.}
 }
 
 @article{shi2025learningadaptivedexterousgrasping,
