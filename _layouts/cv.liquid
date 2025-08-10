@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+{% if page.cv_pdf %}
+  <script>
+    window.location.href = "{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}";
+  </script>
+  <p>If you are not redirected automatically, <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}">click here</a> to view the CV.</p>
+{% else %}
 {% unless site.data.resume %}
   <div class="post">
     <header class="post-header">
@@ -115,3 +121,4 @@ layout: default
     </article>
   </div>
 {% endunless %}
+{% endif %}
