@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am joining [Physical Intelligence](https://www.physicalintelligence.company/) as an intern in Fall 2026.
+I am joining [Physical Intelligence](https://www.physicalintelligence.company/) as an intern in Fall 2025.
