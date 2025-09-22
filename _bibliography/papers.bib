@@ -44,6 +44,21 @@ abstract = {Dynamics models that predict the effects of physical interactions ar
       abstract={Robot-assisted feeding requires reliable bite acquisition, a challenging task due to the complex interactions between utensils and food with diverse physical properties. These interactions are further complicated by the temporal variability of food properties—for example, steak becomes firm as it cools even during a meal. To address this, we propose SAVOR, a novel approach for learning skill affordances for bite acquisition—how suitable a manipulation skill (e.g., skewering, scooping) is for a given utensil-food interaction. In our formulation, skill affordances arise from the combination of tool affordances (what a utensil can do) and food affordances (what the food allows). Tool affordances are learned offline through calibration, where different utensils interact with a variety of foods to model their functional capabilities. Food affordances are characterized by physical properties such as softness, moisture, and viscosity, initially inferred through commonsense reasoning using a visually-conditioned language model and then dynamically refined through online visuo-haptic perception using SAVOR during interaction. Our method integrates these offline and online estimates to predict skill affordances in real time, enabling the robot to select the most appropriate skill for each food item. Evaluated on 20 single-item foods and 10 in-the-wild meals, our approach improves bite acquisition success by 13\% over state-of-the-art (SOTA) category-based methods (e.g. use skewer for fruits). These results highlight the importance of modeling interaction-driven skill affordances for generalizable and effective robot-assisted bite acquisition.}
 }
 
+
+@article{grover2025enhancing,
+      author={Shresth Grover* and Akshay Gopalkrishnan* and Bo Ai and Henrik I. Christensen and Hao Su and Xuanlin Li},
+      title={Enhancing Generalization in Vision-Language-Action Models by Preserving Pretrained Representations},
+      year={2025},
+      eprint={2509.11417},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2509.11417},
+      html={https://gen-vla.github.io/},
+      preview={2025RAL-VLA+.webp},
+      pdf={https://arxiv.org/pdf/2509.11417},
+      abstract={Vision-language-action (VLA) models finetuned from vision-language models (VLMs) hold the promise of leveraging rich pretrained representations to build generalist robots across diverse tasks and environments. However, direct fine-tuning on robot data often disrupts these representations and limits generalization. We present a framework that better preserves pretrained features while adapting them for robot manipulation. Our approach introduces three components: (i) a dual-encoder design with one frozen vision encoder to retain pretrained features and another trainable for task adaptation, (ii) a string-based action tokenizer that casts continuous actions into character sequences aligned with the model's pretraining domain, and (iii) a co-training strategy that combines robot demonstrations with vision-language datasets emphasizing spatial reasoning and affordances. Evaluations in simulation and on real robots show that our method improves robustness to visual perturbations, generalization to novel instructions and environments, and overall task success compared to baselines.}
+}
+
 @article{tian2025diffusion,
   title={Diffusion Dynamics Models with Generative State Estimation for Cloth Manipulation},
   author={Tian*, Tongxuan and Li*, Haoyang and Ai, Bo and Yuan, Xiaodi and Huang, Zhiao and Su, Hao},

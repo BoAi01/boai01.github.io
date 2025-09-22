@@ -24,6 +24,8 @@
 "li":
   - firstname: ["Yunzhu", "Yunzhu Li"]
     url: https://yunzhuli.github.io/
+  - firstname: ["Xuanlin", "Xuanlin Li"]
+    url: https://xuanlinli17.github.io/
 
 "tan":
   - firstname: ["Cheston", "Cheston Tan"]
@@ -117,3 +119,11 @@ bhattacharjee:
 pfaff:
   - firstname: ["Tobias"]
     url: https://tobiaspfaff.com/
+
+gopalkrishnan:
+  - firstname: ["Akshay Gopalkrishnan", "Akshay"]
+    url: https://www.linkedin.com/in/akshay-gp/
+
+grover:
+  - firstname: ["Shresth Grover", "Shresth"]
+    url: https://scholar.google.com/citations?user=KI128PgAAAAJ&hl=en
