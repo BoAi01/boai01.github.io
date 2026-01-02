@@ -127,3 +127,19 @@ gopalkrishnan:
 grover:
   - firstname: ["Shresth Grover", "Shresth"]
     url: https://scholar.google.com/citations?user=KI128PgAAAAJ&hl=en
+
+wan:
+  - firstname: ["Weikang"]
+    url: https://wkwan7.github.io/
+
+du:
+  - firstname: ["Yilun"]
+    url: https://yilundu.github.io/
+
+he:
+  - firstname: ["Zihao"]
+    url: https://alan-heoooh.github.io/
+
+fu:
+  - firstname: ["Jiawei"]
+    url: https://jayefu.github.io/
