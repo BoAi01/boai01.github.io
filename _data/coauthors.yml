@@ -143,3 +143,19 @@ he:
 fu:
   - firstname: ["Jiawei"]
     url: https://jayefu.github.io/
+
+si:
+  - firstname: ["Chen", "Chen Si"]
+    url: https://chen-si-cs.github.io/
+
+xie:
+  - firstname: ["Jianwen", "Jianwen Xie"]
+    url: http://www.stat.ucla.edu/~jxie/
+
+potamias:
+  - firstname: ["Rolandos Alexandros", "Rolandos Alexandros Potamias"]
+    url: https://rolpotamias.github.io/
+
+zheng:
+  - firstname: ["Chuanxia", "Chuanxia Zheng"]
+    url: https://physicalvision.github.io/people/~chuanxia
