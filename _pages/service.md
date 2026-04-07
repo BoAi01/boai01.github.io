@@ -2,9 +2,11 @@
 layout: page
 permalink: /service/
 title: Service
-description: Professional and academic activities
+description: Teaching, reviewing, and talks
 nav: true
 nav_order: 3
+---
+
 ---
 
 ### Teaching
@@ -25,9 +27,13 @@ nav_order: 3
 - An introductory programming module, a [JavaScript extension](https://sourceacademy.org/sicpjs/index) of [MIT CS6.001](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 - Led tutorials, designed and graded assessments and exams, and contributed [Source Academy](https://sourceacademy.org/playground)
 
+---
+
 ### Community Services
-Journal reviewer: RA-L ’22, ’23, ’24, ’25; RAM ’25 <br>
-Conference reviewer: ICRA ’22, ’23, ’25, '26; IROS ’22, ’23, ’24, ’25; CoRL ’25; RSS '26; CVPR '26; ECCV '26
+Journal reviewer: RA-L '22, '23, '24, '25; RAM '25 <br>
+Conference reviewer: ICRA '22, '23, '25, '26; IROS '22, '23, '24, '25; CoRL '25; RSS '26; CVPR '26; ECCV '26
+
+---
 
 ### Talks
 [2023/07] Invited talk at [Stanford Intelligent Systems Laboratory](https://sisl.stanford.edu/) <br>
