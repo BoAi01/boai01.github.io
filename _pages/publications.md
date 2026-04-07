@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /research/
 title: Research
-description: Robotics, Machine Learning
+description: "Cross-embodiment robot learning: policy learning, world modeling, embodiment scaling, learning from humans, and multimodal foundation models"
 nav: true
 nav_order: 2
 ---
