@@ -11,7 +11,7 @@ nav_order: 3
 
 ### Teaching
 
-##### UCSD CSE 276  Machine Learning for Robotics (Spring 2025)
+##### UCSD CSE276F  Machine Learning for Robotics (Spring 2025)
 - Graduate course on robotics, covering planning, perception, control, and reinforcement learning
 - Contributed to designing and delivering lectures on kinematics and planning
 
