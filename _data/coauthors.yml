@@ -305,3 +305,7 @@ zhang:
     url: https://zhuoyangz.com/
   - firstname: ["Wuming", "Wuming Zhang"]
     url: https://scholar.google.com/citations?user=JN1CyPUAAAAJ
+
+team:
+  - firstname: ["Physical Intelligence", "Physical Intelligence Team"]
+    url: https://www.pi.website/
