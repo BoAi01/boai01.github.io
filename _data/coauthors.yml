@@ -28,6 +28,8 @@
     url: https://xuanlinli17.github.io/
   - firstname: ["Dichen", "Dichen Li"]
     url: https://dichen-li.github.io/
+  - firstname: ["Xinyu", "Xinyu Li"]
+    url: https://arthurlxy.github.io/
 
 "tan":
   - firstname: ["Cheston", "Cheston Tan"]
@@ -43,10 +45,18 @@
 "shi":
   - firstname: ['Haochen']
     url: https://hshi74.github.io/
+  - firstname: ["Lucy", "Lucy Xiaoyang", "Lucy Xiaoyang Shi"]
+    url: https://lucys0.github.io/
+  - firstname: ["Baifeng", "Baifeng Shi"]
+    url: https://bfshi.github.io/
 
 "wang":
   - firstname: ['Yixuan']
     url: https://wangyixuan12.github.io/
+  - firstname: ["Jason", "Jason Wang"]
+    url: https://jasonwa.ng/
+  - firstname: ["XuDong", "XuDong Wang"]
+    url: https://people.eecs.berkeley.edu/~xdwang/
 
 "choi":
   - firstname: ['Dongkyu']
@@ -161,3 +171,137 @@ potamias:
 zheng:
   - firstname: ["Chuanxia", "Chuanxia Zheng"]
     url: https://physicalvision.github.io/people/~chuanxia
+
+balakrishna:
+  - firstname: ["Ashwin", "Ashwin Balakrishna"]
+    url: https://abalakrishna123.github.io/
+
+black:
+  - firstname: ["Kevin", "Kevin Black"]
+    url: https://kevin.black/
+
+driess:
+  - firstname: ["Danny", "Danny Driess"]
+    url: https://dannydriess.github.io/
+
+finn:
+  - firstname: ["Chelsea", "Chelsea Finn"]
+    url: https://ai.stanford.edu/~cbfinn/
+
+hausman:
+  - firstname: ["Karol", "Karol Hausman"]
+    url: https://karolhausman.github.io/
+
+ichter:
+  - firstname: ["Brian", "Brian Ichter"]
+    url: https://brianichter.com/
+
+levine:
+  - firstname: ["Sergey", "Sergey Levine"]
+    url: https://people.eecs.berkeley.edu/~svlevine/
+
+nair:
+  - firstname: ["Suraj", "Suraj Nair"]
+    url: https://surajnair.com/
+
+pertsch:
+  - firstname: ["Karl", "Karl Pertsch"]
+    url: https://kpertsch.github.io/
+
+ren:
+  - firstname: ["Allen", "Allen Z.", "Allen Z. Ren"]
+    url: https://allenzren.github.io/
+
+smith:
+  - firstname: ["Laura", "Laura Smith"]
+    url: https://smithlaura.github.io/
+
+vuong:
+  - firstname: ["Quan", "Quan Vuong"]
+    url: https://quanvuong.github.io/
+
+conley:
+  - firstname: ["Ken", "Ken Conley"]
+    url: http://kwc.org/
+
+darpinian:
+  - firstname: ["James", "James Darpinian"]
+    url: https://james.darpinian.com/
+
+dicarlo:
+  - firstname: ["Jared", "Jared DiCarlo"]
+    url: https://jareddicarlo.com/
+
+equi:
+  - firstname: ["Michael", "Michael Equi"]
+    url: https://scholar.google.com/citations?user=CP5x1yEAAAAJ
+
+fang:
+  - firstname: ["Yunhao", "Yunhao Fang"]
+    url: https://scholar.google.com/citations?user=vrYHLMgAAAAJ
+
+glossop:
+  - firstname: ["Catherine", "Catherine Glossop"]
+    url: https://catglossop.github.io/
+
+godden:
+  - firstname: ["Thomas", "Thomas Godden"]
+    url: https://thomasgodden.com/
+
+habeeb:
+  - firstname: ["Haroun", "Haroun Habeeb"]
+    url: https://scholar.google.com/citations?user=UBe16ewAAAAJ
+
+hancock:
+  - firstname: ["Hunter", "Hunter Hancock"]
+    url: https://www.hunterghancock.com/
+
+hussein:
+  - firstname: ["Gashon", "Gashon Hussein"]
+    url: https://www.ghussein.org/
+
+ke:
+  - firstname: ["Liyiming", "Liyiming Ke"]
+    url: https://kelym.github.io/
+
+lu:
+  - firstname: ["Yao", "Yao Lu"]
+    url: https://scholar.google.com/citations?user=OI7zFmwAAAAJ
+
+mano:
+  - firstname: ["Vishnu", "Vishnu Mano"]
+    url: https://www.vishnumano.com/
+
+springenberg:
+  - firstname: ["Jost Tobias", "Jost Tobias Springenberg"]
+    url: https://springenberg.aldeia.net/
+
+stachowicz:
+  - firstname: ["Kyle", "Kyle Stachowicz"]
+    url: https://scholar.google.com/citations?user=PpzsjioAAAAJ
+
+tang:
+  - firstname: ["Jiaming", "Jiaming Tang"]
+    url: https://jiamingtang.me/
+
+torne:
+  - firstname: ["Marcel", "Marcel Torne"]
+    url: https://marceltorne.github.io/
+
+vedder:
+  - firstname: ["Kyle", "Kyle Vedder"]
+    url: https://vedder.io/
+
+xu:
+  - firstname: ["Charles", "Charles Xu"]
+    url: https://charlesxu0124.github.io/
+
+yu:
+  - firstname: ["Lili", "Lili Yu"]
+    url: https://scholar.google.com/citations?user=wY932-AAAAAJ
+
+zhang:
+  - firstname: ["Zhuoyang", "Zhuoyang Zhang"]
+    url: https://zhuoyangz.com/
+  - firstname: ["Wuming", "Wuming Zhang"]
+    url: https://scholar.google.com/citations?user=JN1CyPUAAAAJ
