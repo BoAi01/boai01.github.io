@@ -6,7 +6,7 @@ title: Bo Ai # the website title (if blank, full name will be used instead)
 first_name: Bo
 middle_name:
 last_name: Ai
-email: bai@ucsd.com
+email: boai@stanford.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Bo Ai is a first-year CSE Ph.D. student at UC San Diego, working on robotics and machine
   learning. He received his Bachelor's degree in CS and Statistics from the National University of Singapore (NUS) 
