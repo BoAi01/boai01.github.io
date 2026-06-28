@@ -8,10 +8,7 @@ middle_name:
 last_name: Ai
 email: boai@stanford.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Bo Ai is a first-year CSE Ph.D. student at UC San Diego, working on robotics and machine
-  learning. He received his Bachelor's degree in CS and Statistics from the National University of Singapore (NUS) 
-  and was a research intern at the Stanford Vision and Learning Lab (SVL).
-footer_text: >
+  Bo Ai is a CS PhD student at Stanford University, developing robots that learn collectively across embodiments and extend human capability. He received his Master’s degree from the University of California San Diego (UCSD) and his Bachelor’s degree from the National University of Singapore (NUS).
 #  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
@@ -52,7 +49,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 850px
 
 # TODO: add layout settings (single page vs. multi-page)
 

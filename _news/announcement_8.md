@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[π0.7](https://www.pi.website/blog/pi07) is out! My favorite result: training on diverse data leads to cross-embodiment generalization.
+[π0.7](https://www.pi.website/blog/pi07) is out! The right strategy and goal conditioning, along with diverse data, unlocks cross-embodiment transfer.
