@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[π0.7](https://www.pi.website/blog/pi07) is out! The right strategy and goal conditioning, along with diverse data, unlocks cross-embodiment transfer.
+[π0.7](https://www.pi.website/blog/pi07) is out! Strategy and goal conditioning, along with diverse data, unlock cross-embodiment transfer.
