@@ -4,7 +4,7 @@
 
 "su":
   - firstname: ["Hao", "Hao Su"]
-    url: https://cseweb.ucsd.edu/~haosu/index.html#_ri
+    url: https://www.haosu.ai/
 
 "christensen":
   - firstname: ["Henrik", "Henrik I.", "Henrik I. Christensen"]
@@ -52,7 +52,7 @@
 
 "wang":
   - firstname: ['Yixuan']
-    url: https://wangyixuan12.github.io/
+    url: https://www.yixuanwang.me/
   - firstname: ["Jason", "Jason Wang"]
     url: https://jasonwa.ng/
   - firstname: ["XuDong", "XuDong Wang"]
@@ -72,11 +72,11 @@
   - firstname: ['Bo']
     url: https://boxiong.io/
 
-bohlinger:
+"bohlinger":
   - firstname: ["Nico", "Nico Bohlinger"]
     url: https://www.ias.informatik.tu-darmstadt.de/Team/NicoBohlinger
 
-dai:
+"dai":
   - firstname: ["Liu", "Liu Dai"]
     url: https://liudai.notion.site/Liu-DAI-429d262c9f504ef59a5668772a29e86b
 
