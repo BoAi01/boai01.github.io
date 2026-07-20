@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Scaling Cross-Embodiment World Models for Dexterous Manipulation",
+        "image": "./asset/images/paper_logos/ICRA2026WM.webp",
+        "authors": "Zihao He*, Bo Ai*, Tongzhou Mu, Yulin Liu, Weikang Wan, Jiawei Fu, Yilun Du, Henrik I. Christensen, Hao Su",
+        "venue": "IROS 2026",
+        "year": 2026,
+        "field": [
+            "World Models",
+            "Cross-Embodiment Learning",
+            "Dexterous Manipulation",
+            "Learning from Human Data", 
+            "Robotics"
+        ],
+        "links": [
+            {"name": "PDF", "url": "https://arxiv.org/pdf/2511.01177"},
+            {"name": "Project", "url": "https://alan-heoooh.github.io/dexwm.html"}
+        ],
+        "keywords": "A cross-embodiment world model for dexterous manipulation that represents diverse embodiments (human hands, robot hands) as 3D particle sets with particle-displacement actions, enabling a unified graph-based dynamics model trained across simulated robots and real human data. Scaling training embodiments improves generalization to unseen ones, co-training on simulated and real data outperforms either alone, and the learned model supports model-based planning on robots with varied degrees of freedom."
+    },
+    {
+        "title": "Enhancing Generalization in Vision-Language-Action Models by Preserving Pretrained Representations",
+        "image": "./asset/images/paper_logos/2025RAL-VLA+.webp",
+        "authors": "Shresth Grover*, Akshay Gopalkrishnan*, Bo Ai, Henrik I. Christensen, Hao Su, Xuanlin Li",
+        "venue": "IROS 2025",
+        "year": 2025,
+        "field": [
+            "Vision-Language-Action Models",
+            "Foundation Models",
+            "Robotics"
+        ],
+        "links": [
+            {"name": "PDF", "url": "https://arxiv.org/pdf/2509.11417"},
+            {"name": "Project", "url": "https://gen-vla.github.io/"}
+        ],
+        "keywords": "A VLA finetuning framework that preserves pretrained VLM representations for better robot generalization, combining a dual vision encoder (one frozen, one trainable), a string-based action tokenizer aligned with the pretraining domain, and co-training on robot demonstrations with vision-language datasets emphasizing spatial reasoning and affordances. Improves robustness to visual perturbations and generalization to novel instructions and environments."
+    }
+]
