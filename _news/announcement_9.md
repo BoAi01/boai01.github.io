@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I wrote a [position paper](https://arxiv.org/abs/2609.27095) on why cross-embodiment transfer matters and its role in robotics.
+I wrote a [position paper](https://arxiv.org/abs/2609.27095) on why cross-embodiment transfer matters for general intelligence. 
