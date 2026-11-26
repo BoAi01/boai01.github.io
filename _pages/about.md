@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: grad-profile-photo.png
+  image: isrr-malacca-photo-cropped.png
   image_circular: false # crops the image to make it circular
 
   more_info: >
